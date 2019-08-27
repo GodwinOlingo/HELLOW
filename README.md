@@ -1,2 +1,0 @@
-# HELLOW
-Project 1
